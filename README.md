@@ -12,7 +12,7 @@ Your comprehensive e-healthcare solution. Access certified professionals via vir
    - Design the architecture, database schema, and user interfaces.
    - Plan for security measures and compliance with healthcare regulations.
 
-   3. **Implementation (Coding):**
+   3. **Development (Coding):**
    - Begin the development phase based on the finalized design.
    - Code the features according to the specified requirements.
    - Follow coding standards and best practices.
