@@ -1,10 +1,10 @@
 # hi
 ## E-Healthcare Online Consultation and Medical Subscription
 #### INTRODUCTION
-This report describes the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers, and fostering proactive health management for users, healthcare professionals, and organizations alike.
+This report describes the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers and fostering proactive health management for users, healthcare professionals and organizations alike.
 
 #### Applied SDLC model (Software Development Life Cycle model):
-The E-Healthcare Online Consultation and Medical Subscription project applied the waterfall model, ensuring a sequential and structured development process. This approach involved distinct phases of requirements analysis, design, implementation, testing, deployment, and maintenance, aligning with the project's objectives to create a robust and effective healthcare platform.
+The E-Healthcare Online Consultation and Medical Subscription project applied the waterfall model, ensuring a sequential and structured development process. This approach involved distinct phases of requirements analysis, design, implementation, testing, deployment and maintenance, aligning with the project's objectives to create a robust and effective healthcare platform.
 
 
 ![image](https://github.com/Tazfia67/hi/assets/157128451/5ad7d975-ab53-43b7-b60d-13ed2853f851)
@@ -16,7 +16,7 @@ The E-Healthcare Online Consultation and Medical Subscription project applied th
 
    2. **System Design:**
    - Create a comprehensive system design based on the gathered requirements.
-   - Design the architecture, database schema, and user interfaces.
+   - Design the architecture, database schema and user interfaces.
    - Plan for security measures and compliance with healthcare regulations.
 
    3. **Development (Coding):**
