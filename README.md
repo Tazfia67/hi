@@ -1,7 +1,7 @@
 # hi
 ## E-Healthcare Online Consultation and Medical Subscription
 #### INTRODUCTION
-This report delves into the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers, and fostering proactive health management for users, healthcare professionals, and organizations alike.
+This report describes the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers, and fostering proactive health management for users, healthcare professionals, and organizations alike.
 
 #### Applied SDLC model (Software Development Life Cycle model):
 The E-Healthcare Online Consultation and Medical Subscription project applied the waterfall model, ensuring a sequential and structured development process. This approach involved distinct phases of requirements analysis, design, implementation, testing, deployment, and maintenance, aligning with the project's objectives to create a robust and effective healthcare platform.
