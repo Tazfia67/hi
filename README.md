@@ -18,10 +18,12 @@ The E-Healthcare Online Consultation and Medical Subscription project applied th
    - ![photo_2024-01-22_11-07-07](https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f)
 
 
-<img src="![photo_2024-01-22_11-07-07](https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f)
-" width="48">
 
-     
+     <p align="center">
+  <kbd>
+    <img src="https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f" alt="Phases-of-the-Iterative-Model-1024x585" width="600" height="343" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 
    2. **System Design:**
