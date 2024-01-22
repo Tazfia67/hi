@@ -7,15 +7,13 @@ This report describes the Software Development Life Cycle (SDLC) of an innovativ
 The E-Healthcare Online Consultation and Medical Subscription project applied the waterfall model, ensuring a sequential and structured development process. This approach involved distinct phases of requirements analysis, design, implementation, testing, deployment and maintenance, aligning with the project's objectives to create a robust and effective healthcare platform.
 
 
-![image](https://github.com/Tazfia67/hi/assets/157128451/5ad7d975-ab53-43b7-b60d-13ed2853f851)
-
-
 <p align="center">
   <kbd>
     <img src="https://github.com/Tazfia67/hi/assets/157128451/5ad7d975-ab53-43b7-b60d-13ed2853f851"
 alt="Phases-of-the-Iterative-Model-1024x585" width="600" height="500" style="border: 2px solid black; border-radius: 10px;">
   </kbd>
 </p>
+
 
    1. **Requirements Gathering:**
    - Work closely with healthcare professionals and stakeholders to gather detailed requirements for the e-healthcare app.
@@ -25,7 +23,7 @@ alt="Phases-of-the-Iterative-Model-1024x585" width="600" height="500" style="bor
 
      <p align="center">
   <kbd>
-    <img src="https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f" alt="Requirements" width="600" height="500" style="border: 2px solid black; border-radius: 10px;">
+    <img src="https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f" alt="Requirements" width="600" height="500" style="border: 2px solid black; border-radius: 10px; right-margin: 50px;">
   </kbd>
 </p>
 
