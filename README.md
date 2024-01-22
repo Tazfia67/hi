@@ -18,7 +18,8 @@ The E-Healthcare Online Consultation and Medical Subscription project applied th
    - ![photo_2024-01-22_11-07-07](https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f)
 
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="![photo_2024-01-22_11-07-07](https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f)
+" width="48">
 
      
 
