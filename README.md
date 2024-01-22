@@ -13,6 +13,11 @@ The E-Healthcare Online Consultation and Medical Subscription project applied th
    1. **Requirements Gathering:**
    - Work closely with healthcare professionals and stakeholders to gather detailed requirements for the e-healthcare app.
    - Define the features and functionalities needed for online consultation and medical subscription services.
+    
+
+   - ![photo_2024-01-22_11-07-07](https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f)
+     
+
 
    2. **System Design:**
    - Create a comprehensive system design based on the gathered requirements.
