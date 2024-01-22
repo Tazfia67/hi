@@ -9,6 +9,14 @@ The E-Healthcare Online Consultation and Medical Subscription project applied th
 
 ![image](https://github.com/Tazfia67/hi/assets/157128451/5ad7d975-ab53-43b7-b60d-13ed2853f851)
 
+<p align="center">
+  <kbd>
+    <img src="" alt="Requirements" width="600" height="500" style="border: 2px solid black; border![image](https://github.com/Tazfia67/hi/assets/157128451/5ad7d975-ab53-43b7-b60d-13ed2853f851)
+-radius: 10px;">
+  </kbd>
+</p>
+
+
 
    1. **Requirements Gathering:**
    - Work closely with healthcare professionals and stakeholders to gather detailed requirements for the e-healthcare app.
